@@ -1,0 +1,11 @@
+.fs-div{
+	position: relative;
+	width: 400px;
+	height: 300px;
+	overflow: hidden;
+}
+.fs-div img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
